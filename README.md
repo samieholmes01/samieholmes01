@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samantha
 - 👀 I’m interested in programming, systems and networks and IT in general (I am still studying)
-- 🌱 I’m currently learning Java (I am using Java on Linux to learn)
+- 🌱 I’m currently learning Java and I am practicing on Linux
 
 
 <!---
